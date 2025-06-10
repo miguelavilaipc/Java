@@ -47,4 +47,4 @@ Este proyecto simula el funcionamiento de una concesionaria que vende autos y mo
 Miguel Avila
 
 🔗 Repositorio
-[Colocar aquí el link del repositorio GitHub una vez subido]
+https://github.com/miguelavilaipc/Java/blob/main/tp2-miguelavila.rar
